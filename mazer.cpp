@@ -1,5 +1,5 @@
 #include <iostream>
-#include "mazer_tools.h"
+#include "maze_tools.h"
 #include <string>
 
 using namespace std;
