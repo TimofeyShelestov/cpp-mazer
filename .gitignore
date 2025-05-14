@@ -2,3 +2,5 @@ maze_tools
 mazer
 .vscode
 TODO.md
+raylib
+raylib_test.cpp
